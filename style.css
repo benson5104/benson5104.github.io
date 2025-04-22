@@ -1,0 +1,16 @@
+/* Reset & 基本排版 */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: "Noto Sans TC", sans-serif; line-height: 1.6; padding: 20px; color: #333; }
+h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.5rem; margin-top: 1.5rem; margin-bottom: 0.5rem; border-bottom: 2px solid #666; padding-bottom: 0.2rem; }
+header p { margin-bottom: 1.5rem; color: #555; }
+
+/* 區塊間隔 */
+section { margin-bottom: 1.5rem; }
+
+/* 清單樣式 */
+ul { list-style: none; }
+li { margin-bottom: 0.8rem; }
+
+/* footer */
+footer { text-align: center; margin-top: 2rem; font-size: 0.9rem; color: #777; }
